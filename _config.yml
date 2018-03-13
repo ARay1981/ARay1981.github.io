@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: cdd91e82d5fa0870464c                            #生成的clientID
-  clientSecret: a1eae45233a238e2b260b8d68ac9c9ec5b59fb68    #生成的clientSecret
+  clientID: 4c2997edcd970f51a696                            #生成的clientID
+  clientSecret: 3d4debba0e24dd3761a8dcf28f694ece13d66225    #生成的clientSecret
   repo: ARay1981.github.io    #仓库名称
   owner: ARay1981    #github用户名
   admin: ARay1981
