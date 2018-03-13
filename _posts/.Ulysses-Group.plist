@@ -622,6 +622,16 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
+			<key>2017-08-03-台词.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>542621735.89304996</real>
+				<key>version</key>
+				<dict>
+					<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
+					<integer>60</integer>
+				</dict>
+			</dict>
 			<key>2017-09-11-Swift-4-新特性.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -738,6 +748,9 @@
 	<array>
 		<array>
 			<string>2017-02-16-Git-代码回滚.md</string>
+		</array>
+		<array>
+			<string>2017-08-03-台词.md</string>
 		</array>
 		<array>
 			<string>2018-03-13-搬家.md</string>
@@ -902,7 +915,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
-			<integer>55</integer>
+			<integer>61</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
