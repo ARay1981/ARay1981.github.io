@@ -622,6 +622,36 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
+			<key>2017-07-27-Youth.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>542623324.29058802</real>
+				<key>version</key>
+				<dict>
+					<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
+					<integer>74</integer>
+				</dict>
+			</dict>
+			<key>2017-07-31-Free.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>542623067.74492502</real>
+				<key>version</key>
+				<dict>
+					<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
+					<integer>70</integer>
+				</dict>
+			</dict>
+			<key>2017-08-02-头衔.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>542622868.28033805</real>
+				<key>version</key>
+				<dict>
+					<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
+					<integer>64</integer>
+				</dict>
+			</dict>
 			<key>2017-08-03-台词.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -742,12 +772,21 @@
 			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>542600923.45006299</real>
+		<real>542623156.46156001</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>2017-02-16-Git-代码回滚.md</string>
+		</array>
+		<array>
+			<string>2017-07-27-Youth.md</string>
+		</array>
+		<array>
+			<string>2017-07-31-Free.md</string>
+		</array>
+		<array>
+			<string>2017-08-02-头衔.md</string>
 		</array>
 		<array>
 			<string>2017-08-03-台词.md</string>
@@ -907,7 +946,7 @@
 		</array>
 	</array>
 	<key>sheetOrder</key>
-	<string>modificationDate</string>
+	<string>creationDate</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -915,12 +954,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
-			<integer>61</integer>
+			<integer>75</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>007bcc8b02f7a3e5d512539519238f2a33a2bd9f328cc4594a6db146c6b68814</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>
