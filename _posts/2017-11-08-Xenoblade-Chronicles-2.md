@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      关于用Hugo建站之后需要注意的事项
+title:      玩游戏之前还是要先做点功课
 date:       2017-11-08
 author:     ARay
 catalog: true
