@@ -7,7 +7,7 @@ description: "已婚男人和布偶猫"
 keyword: "ARay, ARay1981, Ingress, IngressENL, ragdoll, Flim, Photography, Swift"
 url: "https://ARay1981.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ARay1981/ARay1981.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -77,8 +77,8 @@ gitalk:
 # ba_track_id: 
 
 # Google Analytics
-ga_track_id: 'UA-104228216-1'            # Format: UA-xxxxxx-xx
-ga_domain: ARay1981.me               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-115658439-1'            # Format: UA-xxxxxx-xx
+ga_domain: ARay1981.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
