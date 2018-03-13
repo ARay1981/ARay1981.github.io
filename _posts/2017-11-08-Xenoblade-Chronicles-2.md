@@ -2,6 +2,7 @@
 layout:     post
 title:      玩游戏之前还是要先做点功课
 date:       2017-11-08
+header-img: img/2017-11-29 22.51.52.jpg
 author:     ARay
 catalog: true
 tags:
