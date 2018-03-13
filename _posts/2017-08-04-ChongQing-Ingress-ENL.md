@@ -3,7 +3,7 @@ layout:     post
 title:      ChongQing Ingress ENL进阶培训教程
 date:       2017-08-04
 author:     ARay
-header-img: img/image10.jpg
+header-img: img/image10.png
 catalog: true
 tags:
 - Ingress
