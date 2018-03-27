@@ -1,11 +1,11 @@
 ---
-layout：post
-title:      	Gem和Homebrew
-subtitle:   	安装软件也可以很装逼
-date:       	2018-03-19
-author:     	ARay
-header-img: 	img/Programming.jpg
-catalog: 	true
+layout：    post
+title:      Gem和Homebrew
+subtitle:   安装软件也可以很装逼
+date:       2018-03-19
+author:     ARay
+header-img: img/Programming.jpg
+catalog: true
 tags:
 -MacOS
 -terminal
