@@ -1,8 +1,8 @@
 ---
 layout：    post
 title:         Gem和Homebrew
-subtitle:   安装软件也可以很装逼
-date:       2018-03-26
+subtitle:   很方便的安装方式
+date:       2018-03-27
 author:     ARay
 header-img: img/Programming.jpg
 catalog: true
