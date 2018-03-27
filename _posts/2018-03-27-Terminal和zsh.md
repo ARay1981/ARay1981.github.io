@@ -4,7 +4,7 @@ title:      Terminal和zsh
 subtitle:   总要折腾一下……
 date:       2018-03-27
 author:     ARay
-header-img: img/programming.jpg
+header-img: img/Programming.jpg
 catalog: true
 tags:
 - MacOS
