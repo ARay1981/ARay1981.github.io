@@ -4,7 +4,7 @@ title:      Gem和Homebrew
 subtitle:   非常便利的安装方式
 date:       2018-03-26
 author:     ARay
-header-img: img/programming.jpg
+header-img: img/Programming.jpg
 catalog: true
 tags:
 - MacOS
