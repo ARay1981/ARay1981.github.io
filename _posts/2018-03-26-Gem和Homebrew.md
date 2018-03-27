@@ -10,7 +10,6 @@ tags:
 -MacOS
 -terminal
 ---
-
 gem 安装与使用
 ---
 
@@ -21,10 +20,10 @@ gem 安装与使用
 - Mac 自带 gem
 - 安装gem程序包时，在安装命令前添加 sudo 则是以管理员身份安装，可以跳过权限问题。
 
-###gem 安装源的管理
+### gem 安装源的管理
 
 > 列出安装源
->
+> 
 > ```ruby
 > gem sources -l
 > ```
@@ -32,11 +31,11 @@ gem 安装与使用
 
 
 > 添加安装源
->
+> 
 > ```ruby
 > gem sources -a XXX
 > ```
->
+> 
 > ```ruby
 > gem source -a https://gems.ruby-china.org
 > gem source -a http://gems.github.com/
@@ -46,7 +45,7 @@ gem 安装与使用
 
 
 > 删除安装源
->
+> 
 > ```ruby
 > gem sources -r XXX
 > ```
@@ -54,7 +53,7 @@ gem 安装与使用
 
 
 > 更新安装源
->
+> 
 > ```ruby
 > gem sources -u
 > ```
@@ -110,12 +109,12 @@ gem dependency rails -v 0.10.1 #列出与rails相互依赖的包
 gem environment #查看gem的环境
 ```
 
-----
+---- 
 
 Homebrew
 ---
 
-- 安装前先检查一下 Xcode 的命令行工具是否已经安装，如果 macOS 系统更新过可能也需要重新安装一次，「终端」中输入 
+- 安装前先检查一下 Xcode 的命令行工具是否已经安装，如果 macOS 系统更新过可能也需要重新安装一次，「终端」中输入
 
   ```
   xcode-select --install
@@ -150,7 +149,7 @@ brew cleanup # 清除下载的各种缓存，历史版本一类的
 ### Homebrew-Cask
 
 > brew cask 是对于 brew 的扩展，可以采用 brew 的方式安装图形界面的软件。安 装Homebrew-Cask 输入以下命令：
->
+> 
 > ```
 > brew tap caskroom/cask
 > ```
@@ -169,5 +168,7 @@ brew update && brew upgrade brew-cask # 更新 cask 自身
 ```
 
 > “brew 是从下载源码解压然后 ./configure && make install ，同时会包含相关依存库。并自动配置好各种环境变量，而且易于卸载。 这个对程序员来说简直是福音，简单的指令，就能快速安装和升级本地的各种开发环境。而 brew cask 是已经编译好了的应用包 （.dmg/.pkg），仅仅是下载解压，放在统一的目录中（/opt/homebrew-cask/Caskroom），省掉了自己去下载、解压、拖拽（安装）等步骤，同样，卸载相当容易与干净。这个对一般用户来说会比较方便，包含很多在 AppStore 里没有的常用软件。”
->
-> ── [brew和brew cask有什么区别？](https://www.zhihu.com/question/22624898)
+> 
+> ── [brew和brew cask有什么区别？][1]
+
+[1]:	https://www.zhihu.com/question/22624898
