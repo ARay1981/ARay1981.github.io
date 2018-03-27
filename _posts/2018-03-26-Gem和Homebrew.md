@@ -5,7 +5,7 @@ subtitle:   安装软件也可以很装逼
 date:       2018-03-19
 author:     ARay
 header-img: img/Programming.jpg
-catalog: true
+catalog:true
 tags:
 -MacOS
 -terminal
