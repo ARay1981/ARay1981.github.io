@@ -5,7 +5,7 @@ subtitle:   安装软件也可以很装逼
 date:       2018-03-26
 author:     ARay
 header-img: img/Programming.jpg
-catalog:true
+catalog: true
 tags:
 -MacOS
 -terminal
@@ -109,7 +109,7 @@ gem dependency rails -v 0.10.1 #列出与rails相互依赖的包
 gem environment #查看gem的环境
 ```
 
----- 
+----
 
 Homebrew
 ---
